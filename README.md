@@ -1,5 +1,5 @@
 # CHATGPTFORWINDOWS
-chatgpt for windows for regular user (non premium)
+chatgpt for windows bypass for regular user (non premium) to acess new voice features and make custom gpts
 
 1. Download chatgpt early version form the app store:
 https://apps.microsoft.com/detail/9nt1r1c2hh7j?hl
