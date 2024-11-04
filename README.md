@@ -36,3 +36,5 @@
 
 - When done, run `DISABLE PROXY.bat` to restore your proxy settings to default.
 ![voice ui](https://github.com/user-attachments/assets/8f1ec23c-af75-4984-97a0-3bd6086d75dc)
+![ui](https://github.com/user-attachments/assets/05793bbc-6c06-414f-9528-f2f9010ffbcc)
+![voice choices](https://github.com/user-attachments/assets/ea48ce51-5f9f-4c8e-a4a0-a6a6a12a1cec)
