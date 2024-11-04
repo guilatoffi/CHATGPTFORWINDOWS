@@ -6,7 +6,9 @@ https://apps.microsoft.com/detail/9nt1r1c2hh7j?hl
 
 2. Download mitmproxy
 https://www.mitmproxy.org/
-RUN [Link text]([mitmproxy-ca-cert.p12](https://github.com/guilatoffi/CHATGPTFORWINDOWS/blob/main/mitmproxy-ca-cert.p12)) (click next and leave everything by default)
+RUN  [Link text]([https://website-name.com](https://github.com/guilatoffi/CHATGPTFORWINDOWS/blob/main/mitmproxy-ca-cert.p12) 'mitmproxy-ca-cert.p12') (click next and leave everything by default)
+
+
 
 4. Download my kill2.py
    
