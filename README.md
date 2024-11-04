@@ -6,8 +6,9 @@ https://apps.microsoft.com/detail/9nt1r1c2hh7j?hl
 
 2. Download mitmproxy
 https://www.mitmproxy.org/
+RUN mitmproxy-ca-cert.p12 (click next and leave everything by default)
 
-3. Download my kill2.py
+4. Download my kill2.py
    
 - 4.1 AUTOMATIC(batch file)
 download all the files to your desktop
